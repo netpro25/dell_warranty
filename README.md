@@ -6,7 +6,7 @@ CLI + REST API to check Dell hardware warranty information.
 `dell_warranty` is a simple script to retrieve warranty information about Dell
 hardware.
 
-It pulls information from the [Dell support](support.dell.com) website and
+It pulls information from the [Dell support](https://support.dell.com) website and
 presents it in either plain-text or JSON format. It can be used as a CLI, or
 as a REST API to facilitate queries via web services.
 
